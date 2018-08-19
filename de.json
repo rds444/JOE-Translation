@@ -1,6 +1,4 @@
-﻿{
-  "button.awaiting": "Drücke eine Taste für die Zuweisung...",
-  "button.conflict": "Die Taste, die gedrückt wurde, ist bereits belegt",
+﻿{   "button.awaiting": "Drücke eine Taste für die Zuweisung...",   "button.conflict": "Die Taste, die gedrückt wurde, ist bereits belegt",
   "button.esc": " Drücke Esc um abzubrechen",
   "estimatedprice.title": "Geschätzter Versandpreis",
   "fishinfo.quality": "Qualität: ",

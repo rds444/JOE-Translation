@@ -14,7 +14,7 @@
   "monsters.tally": "{0}: {1} убито",
   "options. PauseWhenIdle": "",
   "options.AutoAnimalDoor": "Автоматически Открывать/Закрывать Двери Животных",
-  "options.AutoCollectCollectibles": "Автоматически собирать предметы с диких растений поблизости",
+  "options.AutoCollectCollectibles": "Автоматически собирать дикие растения поблизости",
   "options.AutoCollectRadius": "Дальность автоматического сбора",
   "options.AutoDepositIngredient": "Вкладывать ингредиенты из рук в машины",
   "options.AutoDestroyDeadCrops": "Автоматически уничтожать мёртвые растения поблизости",
